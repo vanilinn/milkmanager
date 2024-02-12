@@ -1,13 +1,16 @@
-Python 3.11
-Django 5.0.12
-SQLite
+# Milk Manager  
 
-для запуска в папке проекта выполните:
+## Технологический стек:  
+_Python 3.11_  
+_Django 5.0.12_  
+_SQLite_  
 
-.\venv\Scripts\activate
+## Для запуска в папке проекта выполните:
 
-pip install -r requirements.txt
+```.\venv\Scripts\activate```
 
-cd milkmanager
+```pip install -r requirements.txt```
 
-.\manage.py runserver
+```cd milkmanager```
+
+```.\manage.py runserver```
