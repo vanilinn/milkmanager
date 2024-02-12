@@ -13,4 +13,4 @@ _SQLite_
 
 ```cd milkmanager```
 
-```.\manage.py runserver```
+```python manage.py runserver```
